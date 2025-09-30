@@ -1,0 +1,1 @@
+## Repositório para o desafio de criação da Pokedex, do bootcamp de front-end da DIO.
